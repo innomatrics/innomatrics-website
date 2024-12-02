@@ -1,0 +1,69 @@
+/* 
+.about{
+
+    width: 100rem;
+    height: 50vh;
+
+    background-image: url('../../assets/aboutdoodle.jpg');
+
+    background-size: cover;
+
+    background-attachment: fixed;
+}
+
+.aboutText {
+    font-size: 5rem;
+    font-weight: bolder;
+    margin-top: -40%;
+    color: white;
+    animation: effect 5s linear infinite; /* Increased duration */
+
+
+/* @keyframes effect {
+    0% {
+        background: linear-gradient(#ecdd0d, #00FF00);
+        -webkit-background-clip: text;
+    }
+
+    50% { 
+        background: linear-gradient(#f89604, #ff0000);
+        -webkit-background-clip: text;
+    }
+
+    100% {
+        background: linear-gradient(#3CE7D7, #000FFF);
+        -webkit-background-clip: text;
+    }
+} */
+
+.about-section {
+    height: 60vh; /* Adjust height as needed */
+    background-image: url('../../assets/aboutBg2.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.missonVision{
+    background-image: url('../../assets/aboutBg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.aboutMe{
+    /* border: 3pt solid blue; */
+    /* margin-top: -3%; */
+    
+}
+
+.aboutMe img{
+    padding: 5%;
+    height: 80%;
+    width: 70%;
+    margin-left: 20%;
+}
+
+.aboutText{
+    padding: 4%;
+}

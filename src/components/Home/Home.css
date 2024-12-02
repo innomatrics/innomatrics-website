@@ -1,0 +1,12 @@
+.home{
+  background-image: url('../../assets/homeBg.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100vh;
+}
+
+.ServicesMission{
+  background-image: url('../../assets/homeBg.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+}
